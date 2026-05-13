@@ -24,7 +24,7 @@
   display: inline-flex;
   align-items: center;
   background: var(--color-primary-light);
-  border: 1px solid rgba(124, 106, 247, 0.3);
+  border: 1px solid rgba(229, 53, 53, 0.3);
   color: var(--color-primary);
   font-size: var(--text-xs);
   font-weight: 600;
@@ -82,8 +82,8 @@
 }
 
 .highlight {
-  border-color: rgba(124, 106, 247, 0.3);
-  background: linear-gradient(135deg, rgba(124, 106, 247, 0.08) 0%, var(--color-bg-card) 100%);
+  border-color: rgba(229, 53, 53, 0.3);
+  background: linear-gradient(135deg, rgba(229, 53, 53, 0.08) 0%, var(--color-bg-card) 100%);
   grid-column: span 2;
   flex-direction: row;
   align-items: flex-start;
@@ -91,7 +91,7 @@
 }
 
 .highlight:hover {
-  border-color: rgba(124, 106, 247, 0.5);
+  border-color: rgba(229, 53, 53, 0.5);
 }
 
 .iconWrap {
@@ -109,7 +109,7 @@
 
 .iconHighlight {
   background: var(--color-primary-light);
-  border-color: rgba(124, 106, 247, 0.3);
+  border-color: rgba(229, 53, 53, 0.3);
   color: var(--color-primary);
 }
 
